@@ -1,0 +1,1 @@
+ttab -t 'Back-end' exec cd /home/akib/Cluster/saiful-bhai/menu-back && yarn start:dev
